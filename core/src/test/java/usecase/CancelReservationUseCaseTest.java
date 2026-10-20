@@ -11,7 +11,7 @@ import java.util.Optional;
 import java.util.UUID;
 
 import reserva.exception.*;
-import reserva.modelo.ReservationRepository;
+import reserva.output.ReservationRepository;
 import reserva.modelo.Reserva;
 
 import static org.junit.jupiter.api.Assertions.*;
