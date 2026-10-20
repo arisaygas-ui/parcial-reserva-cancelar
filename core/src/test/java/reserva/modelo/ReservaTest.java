@@ -1,6 +1,7 @@
 package reserva.modelo;
 
 import org.junit.jupiter.api.Test;
+import reserva.exception.*;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.UUID;
 import java.time.LocalDate;
